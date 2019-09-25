@@ -1,5 +1,6 @@
 {
   "first_name": "Имя",
   "last_name": "Фамилия",
-  "fifth_name": "Пятое имя"
+  "fifth_name": "Пятое имя",
+  "next_name": "Next Name"
 }
